@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "amount": 1256,
+    "currency": "USD",
+    "comment": "оплата заказа"
+  },
+  {
+    "id": 2,
+    "amount": 5556,
+    "currency": "USD",
+    "comment": "оплата заказа"
+  },
+  {
+    "id": 3,
+    "amount": "ILove",
+    "currency": "USD",
+    "comment": "оплата заказа"
+  },
+  {
+    "id": 4,
+    "amount": 7556,
+    "currency": "USD",
+    "comment": "оплата заказа"
+  }
+]
